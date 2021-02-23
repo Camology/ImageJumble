@@ -3,8 +3,8 @@
 Lets you scramble up an image into NxO chunks, takes 4 parameters:
 * first: input file name+extension
 * second: output file name+extension
-* third: horizontal image size
-* fourth: vertical image size
+* third: horizontal chunk size
+* fourth: vertical chunk size
 Sample usage: ```./imageJumble.sh candyman.jpg candymanJumbled.jpg 4 4  ```
 
 Example:
