@@ -1,10 +1,10 @@
 # ImageJumble
 
-Lets you scramble up an image, takes 4 parameters:
+Lets you scramble up an image into NxO chunks, takes 4 parameters:
 * first: input file name+extension
 * second: output file name+extension
-* third: horizontal image size
-* fourth: vertical image size
+* third: horizontal chunk size
+* fourth: vertical chunk size
 
 Requires: imagemagick (youll be prompted to install it if you dont have it)
 
